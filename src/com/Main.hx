@@ -13,10 +13,11 @@ import openfl.display.FPS;
 
 /**
  * ...
- * @author Bruce
+ * original author Bruce
  * 2013/03/16, Ported to HaXe NME from the Alchemy example by
  * Ralph Hauwert: http://unitzeroone.com/blog/2009/04/06/more-play-with-alchemy-lookup-table-effects/
  * Ref: http://stackoverflow.com/questions/10157787/haxe-nme-fastest-method-for-per-pixel-bitmap-manipulation
+ * ported to openfl, putting line drawing method by Samir
  */
 
 class Main extends Sprite
